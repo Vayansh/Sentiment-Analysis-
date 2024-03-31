@@ -15,6 +15,7 @@ Using the Fasttext library to differentiate between sentiments
 
 [Using Bert Embeddings with Deep Learning Models](https://github.com/Vayansh/Sentiment_Analysis/blob/main/bert_Deep_Learning.py)
 
+[Using Bert Embeddings with Logistic Regression](https://colab.research.google.com/drive/1sMlNkNPSIue0XoGGAPRQK4igxJAfLn86?usp=sharing)
 ## Comparing the Results of Various Models
 ![image](https://github.com/Vayansh/Sentiment_Analysis/assets/92180055/517ec0d3-603a-4638-be3c-7213cf6f0130)
 
