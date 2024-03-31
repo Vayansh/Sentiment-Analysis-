@@ -13,6 +13,8 @@ Using the Fasttext library to differentiate between sentiments
 
 [Using Glove Embedding with Deep Learning Models](https://colab.research.google.com/drive/1fddXTpgr-jjT_QcGMgEEdvZmiYAyp-a5?usp=sharing)
 
+[Using Bert Embeddings with Deep Learning Models]()
+
 ## Comparing the Results of Various Models
 ![image](https://github.com/Vayansh/Sentiment_Analysis/assets/92180055/517ec0d3-603a-4638-be3c-7213cf6f0130)
 
